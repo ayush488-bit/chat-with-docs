@@ -1,0 +1,8 @@
+anyio==4.6.0
+openai==1.51.2
+pdftotext==2.2.2
+peewee==3.17.6
+pgvector==0.3.4
+python-dotenv==1.0.1
+streamlit==1.38.0
+psycopg2-binary==2.9.10
